@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58b59c79.css",
+    "main.js": "/static/js/main.5de99156.js",
+    "static/js/453.a24132cc.chunk.js": "/static/js/453.a24132cc.chunk.js",
+    "static/media/hicet.png": "/static/media/hicet.3114714dcb6e1f787b38.png",
+    "index.html": "/index.html",
+    "main.58b59c79.css.map": "/static/css/main.58b59c79.css.map",
+    "main.5de99156.js.map": "/static/js/main.5de99156.js.map",
+    "453.a24132cc.chunk.js.map": "/static/js/453.a24132cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58b59c79.css",
+    "static/js/main.5de99156.js"
+  ]
+}
